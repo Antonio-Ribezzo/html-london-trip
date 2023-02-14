@@ -1,1 +1,0 @@
-# Esercizio "Viaggio a Londra"
